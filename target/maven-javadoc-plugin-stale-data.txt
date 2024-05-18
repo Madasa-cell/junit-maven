@@ -1,0 +1,56 @@
+@options
+@argfile
+-encoding
+'Cp1252'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/arkbl/Documents/Utvecklingsverktyg/Inl2/Library/se.madasa/src'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/arkbl/Documents/Utvecklingsverktyg/Inl2/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Library 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/arkbl/Documents/Utvecklingsverktyg/Inl2/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'Library 1.0-SNAPSHOT API'
+'C:/Users/arkbl/Documents/Utvecklingsverktyg/Inl2/Library/se.madasa/src/models/Book.java'
+'C:/Users/arkbl/Documents/Utvecklingsverktyg/Inl2/Library/se.madasa/src/models/BookCatalog.java'
+'C:/Users/arkbl/Documents/Utvecklingsverktyg/Inl2/Library/se.madasa/src/models/BookNotFoundException.java'
+'C:/Users/arkbl/Documents/Utvecklingsverktyg/Inl2/Library/se.madasa/src/models/Customer.java'
+'C:/Users/arkbl/Documents/Utvecklingsverktyg/Inl2/Library/se.madasa/src/models/Loan.java'
+'C:/Users/arkbl/Documents/Utvecklingsverktyg/Inl2/Library/se.madasa/src/models/LoanAlreadyExistsException.java'
+'C:/Users/arkbl/Documents/Utvecklingsverktyg/Inl2/Library/se.madasa/src/models/LoanNotFoundException.java'
+'C:/Users/arkbl/Documents/Utvecklingsverktyg/Inl2/Library/se.madasa/src/models/Material.java'
+'C:/Users/arkbl/Documents/Utvecklingsverktyg/Inl2/Library/se.madasa/src/ui/Main.java'
+'C:/Users/arkbl/Documents/Utvecklingsverktyg/Inl2/Library/se.madasa/src/utilities/GenderType.java'
+'C:/Users/arkbl/Documents/Utvecklingsverktyg/Inl2/Library/se.madasa/src/utilities/LoanStatus.java'
+C:\Users\arkbl\Documents\Utvecklingsverktyg\Inl2\Library\se.madasa\src = 1706178554050
+C:\Users\arkbl\Documents\Utvecklingsverktyg\Inl2\target\site\apidocs\allclasses-index.html = 1716038113457
+C:\Users\arkbl\Documents\Utvecklingsverktyg\Inl2\target\site\apidocs\allpackages-index.html = 1716038113465
+C:\Users\arkbl\Documents\Utvecklingsverktyg\Inl2\target\site\apidocs\element-list = 1716038113136
+C:\Users\arkbl\Documents\Utvecklingsverktyg\Inl2\target\site\apidocs\help-doc.html = 1716038113547
+C:\Users\arkbl\Documents\Utvecklingsverktyg\Inl2\target\site\apidocs\index-all.html = 1716038113523
+C:\Users\arkbl\Documents\Utvecklingsverktyg\Inl2\target\site\apidocs\index.html = 1716038113408
+C:\Users\arkbl\Documents\Utvecklingsverktyg\Inl2\target\site\apidocs\jquery-ui.overrides.css = 1716038113588
+C:\Users\arkbl\Documents\Utvecklingsverktyg\Inl2\target\site\apidocs\member-search-index.js = 1716038113475
+C:\Users\arkbl\Documents\Utvecklingsverktyg\Inl2\target\site\apidocs\module-search-index.js = 1716038113465
+C:\Users\arkbl\Documents\Utvecklingsverktyg\Inl2\target\site\apidocs\overview-summary.html = 1716038113531
+C:\Users\arkbl\Documents\Utvecklingsverktyg\Inl2\target\site\apidocs\overview-tree.html = 1716038113397
+C:\Users\arkbl\Documents\Utvecklingsverktyg\Inl2\target\site\apidocs\package-search-index.js = 1716038113465
+C:\Users\arkbl\Documents\Utvecklingsverktyg\Inl2\target\site\apidocs\script.js = 1716038113555
+C:\Users\arkbl\Documents\Utvecklingsverktyg\Inl2\target\site\apidocs\search.js = 1716038113564
+C:\Users\arkbl\Documents\Utvecklingsverktyg\Inl2\target\site\apidocs\serialized-form.html = 1716038113237
+C:\Users\arkbl\Documents\Utvecklingsverktyg\Inl2\target\site\apidocs\stylesheet.css = 1716038113555
+C:\Users\arkbl\Documents\Utvecklingsverktyg\Inl2\target\site\apidocs\tag-search-index.js = 1716038113483
+C:\Users\arkbl\Documents\Utvecklingsverktyg\Inl2\target\site\apidocs\type-search-index.js = 1716038113475
